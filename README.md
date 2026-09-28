@@ -1,6 +1,6 @@
 # GLMIRA-
 
-<img width="490" height="65" alt="image" src="https://github.com/user-attachments/assets/6da8dde2-4182-4269-952e-a82cc2b8d339" />
+<img width="490" height="65" alt="image" src="https://github.com/user-attachments/assets/6da8dde2-4182-4269-952e-a82cc2b8d339" /><hr>
 CORREÇÂO: document.getElementById("ola").textContent = "Ola, " + dados.usuario;
 <hr>
 <img width="700" height="93" alt="image" src="https://github.com/user-attachments/assets/b47fd2b6-4ee7-4b48-8699-7cf605895f89" />
